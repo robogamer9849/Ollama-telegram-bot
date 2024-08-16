@@ -17,6 +17,8 @@ _what command did someone use_<br/>
 it doesn't show:<br/>
 _who did those things_<br/>
 
+!!you must have [ollama](https://ollama.com) for this to work!!<br/>
+
 installation:<br/>
 1.install [python](https://python.org)
 
