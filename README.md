@@ -23,13 +23,13 @@ installation:<br/>
 2.install [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot): 
 `pip install pyTelegramBotAPI` (go to its github page if you cant use **pip**)<br/>
 
-3.download the latest version from releses part of this page<br/>
+3.download the latest version from releses part of this page (the one frome the files is the oldest version)<br/>
 
 4.make a bot in [botfother](https://t.me/BotFather) (start by typing **/newbot** and the do what it tells you)<br/>
 
 5.replace the word **token** in line 19 with the token that you got from botfather<br/>
 
-6.put the list of models you have installed with ollama in the `model_options` at line 8 like the example<br/>
+6.put the list of models you have installed with ollama in the `model_options` at line 9 like the example<br/>
 
 7.change the `list` in line 7 variable according to your needs<br/>
 
