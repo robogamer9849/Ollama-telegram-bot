@@ -2,11 +2,11 @@
 a telegram bot for telegram
 
 options:<br/>
-`list avalaible models`<br/>
+`list available models`<br/>
 `change the models`<br/>
 `tell what model you are using`<br/>
 
-not avalaible stuff:
+not available stuff:
 `automatic model listing`
 
 a log file named **OllamaBotLogs.log** will be created next to the **app.py** to show logs to the bot owner. it shows:<br/>
