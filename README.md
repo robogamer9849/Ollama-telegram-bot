@@ -33,9 +33,11 @@ installation:<br/>
 
 7.change the `list` in line 7 variable according to your needs<br/>
 
-8.open terminal and cd to the folder you put the _app.py_ in: `cd PATH/TO/APP.PY`<br/>
+8.change the `uModel` in line 6 variable to your preferred default model<br/>
 
-9.start the bot: run `python3 app.py` or `python app.py` in terminal<br/>
+9.open terminal and cd to the folder you put the _app.py_ in: `cd PATH/TO/APP.PY`<br/>
+
+10.start the bot: run `python3 app.py` or `python app.py` in terminal<br/>
 
 (optional)<br/>
 run `python3 app.py &` or `python app.py &` to run the bot in background (linux)<br/>
