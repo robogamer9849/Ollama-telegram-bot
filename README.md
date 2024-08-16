@@ -31,9 +31,9 @@ installation:<br/>
 
 6.put the list of models you have installed with ollama in the `model_options` at line 9 like the example<br/>
 
-7.change the `list` in line 7 variable according to your needs<br/>
+7.change the `list` variable in line 7 according to your needs<br/>
 
-8.change the `uModel` in line 6 variable to your preferred default model<br/>
+8.change the `uModel` variable in line 6 to your preferred default model<br/>
 
 9.open terminal and cd to the folder you put the _app.py_ in: `cd PATH/TO/APP.PY`<br/>
 
