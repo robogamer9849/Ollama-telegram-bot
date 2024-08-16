@@ -1,10 +1,11 @@
 # Ollama-telegram-bot
 a telegram bot for telegram
 
-options:<br/>
-`list available models`<br/>
-`change the models`<br/>
-`tell what model you are using`<br/>
+commads:<br/>
+`/list_models`: list available models<br/>
+`/"modelName"`: change the model<br/>
+`/moedel`: tell what model you are using<br/>
+`/help`: list commands<br/>
 
 not available stuff:
 `automatic model listing`
