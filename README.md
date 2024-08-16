@@ -10,5 +10,10 @@ a log file named **OllamaBotLogs.log** will be created next to the **app.py** to
 _when someone started the bot_<br/>
 _what model did someone aks from_<br/>
 _what command did someone use_<br/>
-it doesn't show:
+
+it doesn't show:<br/>
 _who did those things_<br/>
+
+installation:<br/>
+install [pyTelegramBotAPI]([url](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot)): 
+`pip install pyTelegramBotAPI`
