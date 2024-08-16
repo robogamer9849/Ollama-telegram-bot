@@ -7,7 +7,7 @@ commads:<br/>
 `/moedel`: tell what model you are using<br/>
 `/help`: list commands<br/>
 
-not available stuff:
+this app can't:
 `automatic model listing`
 
 a log file named **OllamaBotLogs.log** will be created next to the **app.py** to show logs to the bot owner. it shows:<br/>
