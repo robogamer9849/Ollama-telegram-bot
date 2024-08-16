@@ -2,11 +2,11 @@
 a telegram bot for telegram
 
 options:<br/>
-`list avalable models`<br/>
+`list avalaible models`<br/>
 `change the models`<br/>
 `tell what model you are using`<br/>
 
-not avalable stuff:
+not avalaible stuff:
 `automatic model listing`
 
 a log file named **OllamaBotLogs.log** will be created next to the **app.py** to show logs to the bot owner. it shows:<br/>
@@ -23,7 +23,7 @@ installation:<br/>
 2.install [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot): 
 `pip install pyTelegramBotAPI` (go to its github page if you cant use **pip**)<br/>
 
-3.download the latest version from releses part of this page (the one frome the files is the oldest version)<br/>
+3.download the latest version from releses part of this page (the one from the files is the oldest version)<br/>
 
 4.make a bot in [botfother](https://t.me/BotFather) (start by typing **/newbot** and the do what it tells you)<br/>
 
