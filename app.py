@@ -4,19 +4,25 @@ import telebot
 
 
 uModel = 'gemma:2b'
-list = 'qwen:0.5b(fastest, least accurate)\ngemma:2b(fast, more accurate)\ngemma:7b(slow, better accuracy)\ngemma2:9b(fastest, most accurate)'
+list = 'put your model list here'
+#example: list = 'qwen:0.5b(fastest, least accurate)\ngemma:2b(fast, more accurate)\ngemma:7b(slow, better accuracy)\ngemma2:9b(fastest, most accurate)'
 model_options = {
-    "/qwen:0.5b": "qwen:0.5b",
-    "/gemma:2b": "gemma:2b",
-    "/gemma:7b": "gemma:7b",
-    "/gemma2:9b": "gemma2:9b", 
+ #fill this
 }
+#example:
+#model_options = {
+#    "/qwen:0.5b": "qwen:0.5b",
+#    "/gemma:2b": "gemma:2b",
+#    "/gemma:7b": "gemma:7b",
+#    "/gemma2:9b": "gemma2:9b",
+#}
+
 
 
 logger = logging.getLogger(__name__)
 logging.basicConfig(filename='OllamaBotLogs.log', filemode='w', level=logging.INFO, format='%(asctime)s: %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 
-bot = telebot.TeleBot("7370834711:AAEaGrdKDd0RWWacmoRwqXXSixMxoJ3ocQE")
+bot = telebot.TeleBot("your_token")
     
     
 @bot.message_handler(commands=['start'])
