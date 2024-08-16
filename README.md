@@ -31,13 +31,13 @@ installation:<br/>
 
 6.put the list of models you have installed with ollama in the `model_options` at line 8 like the example<br/>
 
-7.change the `list` in line 7 variable according to your needs
+7.change the `list` in line 7 variable according to your needs<br/>
 
 8.open terminal and cd to the folder you put the _app.py_ in: `cd PATH/TO/APP.PY`<br/>
 
 9.start the bot: run `python3 app.py` or `python app.py` in terminal<br/>
 
-(optional)
+(optional)<br/>
 run `python3 app.py &` or `python app.py &` to run the bot in background (linux)<br/>
 add `python3 app.py &` or `python app.py &` to your startup apps for easy access after boot<br/>
 
