@@ -15,5 +15,5 @@ it doesn't show:<br/>
 _who did those things_<br/>
 
 installation:<br/>
-install [pyTelegramBotAPI]([url](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot)): 
+install [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot): 
 `pip install pyTelegramBotAPI`
