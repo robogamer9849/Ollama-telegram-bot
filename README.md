@@ -23,8 +23,9 @@ _who did those things_<br/>
 installation:<br/>
 1.install [python](https://python.org)
 
-2.install [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot): 
-`pip install pyTelegramBotAPI` (go to its github page if you cant use **pip**)<br/>
+2.install requirements:  (go to their github page if you cant use **pip**)<br/>
+[pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot): `pip install pyTelegramBotAPI`<br/>
+[Ollama Python Library](https://github.com/ollama/ollama-python): `pip install ollama`
 
 3.download the latest version from releses part of this page (the one from the files is the oldest version)<br/>
 
