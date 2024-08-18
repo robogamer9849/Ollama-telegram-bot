@@ -7,9 +7,6 @@ commads:<br/>
 `/moedel`: tell what model you are using<br/>
 `/help`: list commands<br/>
 
-this app can't:
-`automatic model listing`
-
 a log file named **OllamaBotLogs.log** will be created next to the **app.py** to show logs to the bot owner. it shows:<br/>
 _when someone started the bot_<br/>
 _what model did someone ask from_<br/>
@@ -18,7 +15,7 @@ _what command did someone use_<br/>
 it doesn't show:<br/>
 _who did those things_<br/>
 
-!!you must have [ollama](https://ollama.com) for this to work!!<br/>
+!!you must have [ollama](https://ollama.com) installed for this to work!!<br/>
 
 installation:<br/>
 1.install [python](https://python.org)
