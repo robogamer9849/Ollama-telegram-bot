@@ -31,7 +31,7 @@ installation:<br/>
 
 4.make a bot in [botfother](https://t.me/BotFather) (start by typing **/newbot** and the do what it tells you)<br/>
 
-5.replace the word **token** in line 19 with the token that you got from botfather<br/>
+5.replace the word **token** in line 26 (19 on V1.0) with the token that you got from botfather<br/>
 
 6.start the bot: run `python3 app.py` or `python app.py` in terminal<br/>
 
