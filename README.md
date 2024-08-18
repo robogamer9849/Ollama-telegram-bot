@@ -33,15 +33,19 @@ installation:<br/>
 
 5.replace the word **token** in line 19 with the token that you got from botfather<br/>
 
-6.put the list of models you have installed with ollama in the `model_options` at line 9 like the example<br/>
+6.start the bot: run `python3 app.py` or `python app.py` in terminal<br/>
 
-7.change the `list` variable in line 7 according to your needs<br/>
+_only on V1.0:_
 
-8.change the `uModel` variable in line 6 to your preferred default model<br/>
+1.put the list of models you have installed with ollama in the `model_options` at line 9 like the example<br/>
 
-9.open terminal and cd to the folder you put the _app.py_ in: `cd PATH/TO/APP.PY`<br/>
+5.change the `list` variable in line 7 according to your needs<br/>
 
-10.start the bot: run `python3 app.py` or `python app.py` in terminal<br/>
+3.change the `uModel` variable in line 6 to your preferred default model<br/>
+
+4.open terminal and cd to the folder you put the _app.py_ in: `cd PATH/TO/APP.PY`<br/>
+
+
 
 (optional)<br/>
 run `python3 app.py &` or `python app.py &` to run the bot in background (linux)<br/>
