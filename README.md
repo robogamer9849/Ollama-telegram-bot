@@ -24,7 +24,7 @@ installation:<br/>
 [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI?tab=readme-ov-file#writing-your-first-bot): `pip install pyTelegramBotAPI`<br/>
 [Ollama Python Library](https://github.com/ollama/ollama-python): `pip install ollama`
 
-3.download the latest version from releses part of this page(dont download `updatechecker.py`) (the one from the files is the oldest version)<br/>
+3.download the latest version from releses part of this page(the one from the files is the oldest version)<br/>
 
 4.make a bot in [botfother](https://t.me/BotFather) (start by typing **/newbot** and the do what it tells you)<br/>
 
