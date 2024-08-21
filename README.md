@@ -1,5 +1,5 @@
 # Ollama-telegram-bot
-a telegram bot for telegram
+a telegram bot for ollama
 
 commads:<br/>
 `/list_models`: list available models<br/>
