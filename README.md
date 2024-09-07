@@ -25,23 +25,26 @@ installation:<br/>
 [Ollama Python Library](https://github.com/ollama/ollama-python): `pip install ollama`
 
 3.download the latest version from releses part of this page(the one from the files is the oldest version)<br/>
-3.5.bot.multiple.log.py: makes a file named OllamaBotLogs{date}.log every time you run the app and keeps the old logs<br/>
-bot.single.log.py: makes a single OllamaBotLogs.log and overwrites it every time the bot is ran
+3.5:<br/>
+bot.multiple.log: makes a file named OllamaBotLogs{date}.log every time you run the app and keeps the old logs<br/>
+bot.single.log: makes a single OllamaBotLogs.log and overwrites it every time the bot is ran
 
 
 4.make a bot in [botfother](https://t.me/BotFather) (start by typing **/newbot** and the do what it tells you)<br/>
 
-5.replace the text of `bot = telebot.TeleBot("**your bot token here**")` in line 30 (26 on V1.2) with the token that you got from botfather<br/>
+5.extract downloaded file
 
-6.open terminal and cd to the folder you put the downloaded _.py_ file in: `cd PATH/TO/FILE.PY`<br/>
+6.replace `token` value in config.py with the token that you got from botfather<br/>
 
-7.start the bot: run `python3 FILENAME.py` or `python FILENAME.py` in terminal<br/>
+7.open terminal and cd to the folder you put the downloaded _.py_ file in: `cd PATH/TO/FILE.PY`<br/>
+
+8.start the bot: run `python3 FILENAME.py` or `python FILENAME.py` in terminal<br/>
 
 
 (optional)<br/>
 run `python3 FILENAME &` or `python FILENAME.py &` to run the bot in background (linux)<br/>
 add `python3 PATH/TO/FILE.PY` or `python PATH/TO/FILE.PY` to your startup apps for easy access after boot<br/>
-change the `uModel` variable in line 10(12 FOR MULTIPLE LOG) to your preferred default model<br/>
+change the `default_model` in config.py to your preferred default model<br/>
 
 
 
