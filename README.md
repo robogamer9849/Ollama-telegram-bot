@@ -24,7 +24,7 @@ installation:<br/>
 [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI): `pip install pyTelegramBotAPI`<br/>
 [Ollama Python Library](https://github.com/ollama/ollama-python): `pip install ollama`
 
-3.download the latest version from releses part of this page(the one from the files is the oldest version)<br/>
+3.download the latest version from releses part of this page and extract it(the one from the files is the oldest version)<br/>
 3.5:<br/>
 bot.multiple.log: makes a file named OllamaBotLogs{date}.log every time you run the app and keeps the old logs<br/>
 bot.single.log: makes a single OllamaBotLogs.log and overwrites it every time the bot is ran
@@ -45,6 +45,7 @@ bot.single.log: makes a single OllamaBotLogs.log and overwrites it every time th
 run `python3 FILENAME &` or `python FILENAME.py &` to run the bot in background (linux)<br/>
 add `python3 PATH/TO/FILE.PY` or `python PATH/TO/FILE.PY` to your startup apps for easy access after boot<br/>
 change the `default_model` in config.py to your preferred default model<br/>
+add models to `ex_models` list in config.py to remove them from the bot
 
 
 
